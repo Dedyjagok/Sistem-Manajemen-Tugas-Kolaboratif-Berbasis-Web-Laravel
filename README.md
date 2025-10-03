@@ -4,7 +4,7 @@
 
 Sistem Manajemen Tugas Kolaboratif berbasis web ini dirancang khusus untuk mendukung pembelajaran berbasis proyek dalam lingkungan pendidikan. Platform ini menyediakan solusi terintegrasi untuk mengelola tugas kelompok, memfasilitasi komunikasi tim, dan memantau kontribusi setiap anggota secara transparan.
 
-## Tim Pengembang
+## Tim Development
 
 | Nama | NIM |
 |------|-----|
