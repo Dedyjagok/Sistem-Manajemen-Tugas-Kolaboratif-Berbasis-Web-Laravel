@@ -68,4 +68,4 @@ Project ini menggunakan lisensi MIT. Lihat file `LICENSE` untuk detail lebih lan
 
 
 
-**Dikembangkan dengan ❤️ oleh Tim Manajemen Informatika - Politeknik Negeri Medan**
+**Dikembangkan dengan ❤️ oleh Tim LOQ - Politeknik Negeri Medan**
